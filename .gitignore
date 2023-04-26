@@ -30,3 +30,5 @@ node_modules/
 .yarn
 .next
 .vercel
+
+.nova
